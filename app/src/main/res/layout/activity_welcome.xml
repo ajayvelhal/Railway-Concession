@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dark3"
+    android:orientation="vertical"
+    tools:context="com.example.ajay.concession.Activity.Welcome">
+
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Welcome"
+            android:textColor="@color/dark"
+            android:textSize="60sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="FAST-TRACK                       Railway Concession"
+            android:textColor="@color/dark"
+            android:textSize="35sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+   <LinearLayout
+       android:id="@+id/l2"
+       android:layout_width="match_parent"
+       android:layout_height="300dp"
+       android:orientation="horizontal">
+
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="@drawable/buttons"
+           android:text="@string/sign_in"
+           android:layout_marginLeft="90dp"
+           android:id="@+id/btnsignin"/>
+
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:text="@string/sign_up"
+           android:layout_marginLeft="50dp"
+           android:background="@drawable/buttons"
+
+           android:id="@+id/btnsignup"/>
+
+
+   </LinearLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Concession</string>
+    <string name="login">Login</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="roll_no">Roll No</string>
+    <string name="address">Address</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="feedback">Feedback</string>
+    <string name="view_status">View Status</string>
+    <string name="cancel_concession">Cancel Concession</string>
+    <string name="apply_concession">Apply Concession</string>
+    <string name="update_details">Update Details</string>
+    <string name="description">Description</string>
+    <string name="Description">Description</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="apply_for_concession">Apply For Concession</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="fee_reciept_no">Fee Reciept No</string>
+    <string name="proceed_to_select_date">Proceed to Select Date</string>
+    
+    <string name="stn_prompt">Please Choose Station</string>
+    <string name="prompt">Please Select Station</string>
+    <string name="date">Date</string>
+    <string name="tap_here_to_select_date">Tap here to select date</string>
+    <string name="email">Email</string>
+
+
+    <string-array name="Source">
+        <item> Airoli</item>
+        <item>Ambernath</item>
+        <item>Ambivli</item>
+        <item>Andheri</item>
+        <item>Asangaon</item>
+        <item>Atgaon</item>
+        <item>Badlapur</item>
+        <item>Bandra</item>
+        <item>Bhandup</item>
+        <item>Bhayandar</item>
+        <item>Bhivpuri Road</item>
+        <item>Bhiwandi</item>
+        <item>Boisar</item>
+        <item>Borivali</item>
+        <item>Byculla</item>
+        <item>CBD Belapur</item>
+        <item>Charni Road</item>
+        <item> Chembur</item>
+        <item>CSTM</item>
+        <item>Chinchpokli</item>
+        <item>Chunabhatti</item>
+        <item>Churchgate</item>
+        <item>Cotton Green</item>
+        <item>Currey Road</item>
+        <item>Dadar</item>
+        <item>Dahanu Road</item>
+        <item>Dahisar</item>
+        <item>Dativali</item>
+        <item>Diva</item>
+        <item>DockYard Road</item>
+        <item>Dolavli</item>
+        <item>Dombivali</item>
+        <item>Prabhadevi</item>
+        <item>Gavan</item>
+        <item>Ghansoli</item>
+        <item>Ghatkopar</item>
+        <item>Goregaon</item>
+        <item>Govandi</item>
+        <item>Grant Road</item>
+        <item>GTB Nagar</item>
+        <item>Jogeshwari</item>
+        <item>Juinagar</item>
+        <item>Kalamboli</item>
+        <item>Kalwa</item>
+        <item>Kalyan</item>
+        <item>Kaman Road</item>
+        <item>Kandivali</item>
+        <item>Kajurmarg</item>
+        <item>Karjat</item>
+        <item>Kasara</item>
+        <item>Kelavli</item>
+        <item>Kelve Road</item>
+        <item>Khadavli</item>
+        <item>Khandeshwar</item>
+        <item>Khar Road</item>
+        <item>Kharbao</item>
+        <item>Khardi</item>
+        <item>Khargar</item>
+        <item>Kharkopar</item>
+        <item>Khopoli</item>
+        <item>Kings Circle</item>
+        <item>Kopar</item>
+        <item>Kopar Khairane</item>
+        <item>Kurla</item>
+        <item>Lower Parel</item>
+        <item>Lowjee</item>
+        <item>Mahalaxmi</item>
+        <item>Mahim</item>
+        <item>Malad</item>
+        <item>Mankhurd</item>
+        <item>Mansarovar</item>
+        <item>Marine Lines</item>
+        <item>Masjid</item>
+        <item>Matunga</item>
+        <item>Matunga Road</item>
+        <item>Mumbai Central</item>
+        <item>Mira Road</item>
+        <item>Mumbra</item>
+        <item>Nahur</item>
+        <item>Naigaon</item>
+        <item>Nallasopara</item>
+        <item>Neral</item>
+        <item>Nerul</item>
+        <item>Navade Road</item>
+        <item>Nhava Sheva</item>
+        <item>Nilaje</item>
+        <item>Palghar</item>
+        <item>Palasdari</item>
+        <item>Panvel</item>
+        <item>Parel</item>
+        <item>Rabale</item>
+        <item>Ram Mandir</item>
+        <item>RanjanPada</item>
+        <item>Sandhurst Road</item>
+        <item>Sanpada</item>
+        <item>Santacruz</item>
+        <item>Seawoods-Darave</item>
+        <item>Saphale</item>
+        <item>Sion</item>
+        <item>Shahad</item>
+        <item>Shelu</item>
+        <item>Thane</item>
+        <item>Thakuri</item>
+        <item>Titwala</item>
+        <item>Turbhe</item>
+        <item>Ulhasnagar</item>
+        <item>Uran City</item>
+        <item>Wadala Road</item>
+        <item>Vaitarna</item>
+        <item>Vangani</item>
+        <item>Vasai Road</item>
+        <item>Vashi</item>
+        <item>Vasind</item>
+        <item>Vidyavihar</item>
+        <item>Vikhroli</item>
+        <item>Vile-Parle</item>
+        <item>Virar</item>
+        <item>Vithalwadi</item>
+        <item>Mulund</item>
+        <item>Tilak Nagar</item>
+        <item>Sewri</item>
+        <item>Taloja</item>
+    </string-array>
+
+    <string-array name="des">
+        <item>Matunga</item>
+        <item>Dadar</item>
+    </string-array>
+
+    <string-array name="plz">
+        <item>Please Select Class</item>
+    </string-array>
+    <string-array name="clss">
+        <item>First Class</item>
+        <item>Second Class</item>
+    </string-array>
+
+    <string-array name="nom">
+        <item>3</item>
+    </string-array>
+
+
+
+
+        <string name="nameerror">Enter Valid Name</string>
+        <string name="emailerror">Enter Valid Email</string>
+        <string name="passworderror">Enter Some Password</string>
+        <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="clss">Class</string>
+    <string name="no_of_months">No of Months</string>
+    <string name="token_no">Token No</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_of_birth_tap_to_select">Date Of Birth(TAP TO SELECT)</string>
+    <string name="username_rollno">Username (RollNo)</string>
+    <string name="password_dob_dd_m_yyyy">Password (DOB-DD/M/YYYY)</string>
+    <string name="view">View Concession</string>
+
+
+</resources>
